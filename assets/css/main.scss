@@ -48,7 +48,7 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
+
 
     .paper-box-image{
         justify-content: center;
@@ -61,12 +61,12 @@
             object-fit: cover;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
     }
-    
+
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
@@ -74,7 +74,7 @@
             max-width: 40%;
             order: 1;
         }
-        
+
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
@@ -85,6 +85,91 @@
     }
 
 
+}
+
+/* Publication list style */
+.pub-row {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    border-bottom: 1px #efefef solid;
+    padding: 1.5em 0;
+    gap: 1.2em;
+
+    @media (max-width: 600px) {
+        flex-direction: column;
+    }
+}
+
+.pub-thumbnail {
+    flex-shrink: 0;
+    width: 160px;
+
+    img {
+        width: 160px;
+        height: auto;
+        object-fit: contain;
+        border-radius: 4px;
+        box-shadow: 1px 2px 6px #ccc;
+    }
+
+    @media (max-width: 600px) {
+        width: 100%;
+        img { width: 100%; height: auto; }
+    }
+}
+
+.pub-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.pub-title {
+    font-size: 1.02em;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: .25em;
+
+    a {
+        color: #4a6e8e;
+        text-decoration: none;
+        &:hover { color: #2e4f6a; text-decoration: underline; }
+    }
+}
+
+.pub-authors {
+    font-size: .93em;
+    color: #5a5a58;
+    margin-bottom: .2em;
+    strong { color: #2e2e2c; }
+}
+
+.pub-venue {
+    font-size: .93em;
+    color: #9a9a94;
+    font-style: italic;
+    margin-bottom: .3em;
+}
+
+.pub-badge-oral  { color: #d93025; font-style: normal; font-weight: 700; }
+.pub-badge-early { color: #d93025; font-style: normal; font-weight: 700; }
+
+.pub-links {
+    font-size: .90em;
+    margin-bottom: .3em;
+
+    a {
+        color: #4a6e8e;
+        margin-right: .7em;
+        text-decoration: none;
+        &:hover { color: #2e4f6a; text-decoration: underline; }
+    }
+}
+
+.pub-tldr {
+    font-size: .90em;
+    color: #6a6a66;
+    line-height: 1.45;
 }
 
 $scroll_offset : 2em;
