@@ -25,7 +25,7 @@ Before joining PolyU, I was a Research Assistant at [SIAT, CAS](https://www.siat
 
 Prior to that, I received my M.S. in Biomedical Engineering from [Imperial College London](https://www.imperial.ac.uk/), advised by [Prof. Mengxing Tang](https://profiles.imperial.ac.uk/mengxing.tang). I received my B.S. from the [University of Nottingham](https://www.nottingham.ac.uk/).
 
-You can find my CV here: [Zhang Zheng's Curriculum Vitae](../assets/CV.pdf). Feel free to reach out via [email](mailto:zheng1.zhang@connect.polyu.hk).
+You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhangZheng.pdf). Feel free to reach out via [email](mailto:zheng1.zhang@connect.polyu.hk).
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 **FlowPET** accepted at **ICML 2026**.
