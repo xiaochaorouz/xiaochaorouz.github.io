@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Zhang Zheng (张政)
+
 # About Me
 
 I am a Ph.D. student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Jing Qin](https://harry-qinjing.github.io/). My research focuses on medical AI, medical imaging, brain-computer interfaces, and generative artificial intelligence for healthcare applications.
