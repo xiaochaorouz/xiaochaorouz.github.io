@@ -74,7 +74,7 @@ You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZh
 
 # 📖 Educations
 - *2025 – present*, Ph.D. Student, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), Hong Kong, China
-  - Advised by [Prof. Jing Qin](https://harry-qinjing.github.io/)
+  - Advised by [Prof. Jing Qin](https://research.polyu.edu.hk/en/persons/jing-qin/)
 - *2023 – 2025*, Research Assistant, [Shenzhen Institutes of Advanced Technology, CAS](https://www.siat.ac.cn/), Shenzhen, China
   - Advised by [Prof. Zhanli Hu](https://people.ucas.ac.cn/~huzhanli)
 - *2021 – 2022*, M.S. in Biomedical Engineering, [Imperial College London](https://www.imperial.ac.uk/), London, UK
