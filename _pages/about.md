@@ -21,7 +21,7 @@ redirect_from:
 
 # About Me
 
-I am a Ph.D. student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Jing Qin](https://harry-qinjing.github.io/). My research focuses on medical AI, medical imaging, brain-computer interfaces, and generative artificial intelligence for healthcare applications.
+I am a Ph.D. student at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Jing Qin](https://research.polyu.edu.hk/en/persons/jing-qin/). My research focuses on medical AI, medical imaging, brain-computer interfaces, and generative artificial intelligence for healthcare applications.
 
 Before joining PolyU, I was a Research Assistant at [SIAT, CAS](https://www.siat.ac.cn/), under the supervision of [Prof. Zhanli Hu](https://people.ucas.ac.cn/~huzhanli).
 
