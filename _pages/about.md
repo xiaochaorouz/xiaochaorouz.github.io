@@ -41,10 +41,10 @@ You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZh
     <img src="../images/paper_icml.png" alt="FlowPET">
   </div>
   <div class="pub-content">
-    <div class="pub-title"><a href="#">FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction</a></div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2607.11104">FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction</a></div>
     <div class="pub-authors"><strong>Zhang Zheng</strong>, H Tang, Y Hu, Z Hu, Jing Qin</div>
     <div class="pub-venue">ICML, 2026</div>
-    <div class="pub-links"><a href="#">paper</a> <a href="#">code</a></div>
+    <div class="pub-links"><a href="https://arxiv.org/abs/2607.11104">paper</a> <a href="https://github.com/xiaochaorouz/FlowPET">code</a></div>
   </div>
 </div>
 
