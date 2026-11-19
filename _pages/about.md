@@ -30,7 +30,7 @@ Prior to that, I received my M.S. in Biomedical Engineering from [Imperial Colle
 You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZhang.pdf). Feel free to reach out via [email](mailto:zheng1.zhang@connect.polyu.hk).
 
 # 🔥 News
-- *2026*: &nbsp;🎉 Our team won **Third Prize** in the **2026 National Healthcare Security AI Image Recognition Contest**.
+- *2026.11*: &nbsp;🎉 Our team won **Third Prize** in the **2026 National Healthcare Security AI Image Recognition Contest**.
 - *2026.04*: &nbsp;🎉🎉 **FlowPET** accepted at **ICML 2026**.
 - *2025.11*: &nbsp;🎉🎉 **FourierPET** accepted at **AAAI 2026 (Oral Presentation)**.
 - *2024.08*: &nbsp;One paper accepted at **IEEE Transactions on Medical Imaging**.
@@ -83,7 +83,7 @@ You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZh
 - *2017 – 2021*, B.S. in [University of Nottingham](https://www.nottingham.ac.uk/), Nottingham, UK
 
 # 🏆 Awards
-- *2026*: **Third Prize**, National Healthcare Security AI Image Recognition Contest.
+- *2026.11*: **Third Prize**, National Healthcare Security AI Image Recognition Contest.
 
 ------
 
