@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Zhang Zheng (张政)
+# Zheng ZHANG (张政)
 
 # About Me
 
@@ -27,7 +27,7 @@ Before joining PolyU, I was a Research Assistant at [SIAT, CAS](https://www.siat
 
 Prior to that, I received my M.S. in Biomedical Engineering from [Imperial College London](https://www.imperial.ac.uk/), advised by [Prof. Mengxing Tang](https://profiles.imperial.ac.uk/mengxing.tang). I received my B.S. from the [University of Nottingham](https://www.nottingham.ac.uk/).
 
-You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZhang.pdf). Feel free to reach out via [email](mailto:zheng1.zhang@connect.polyu.hk).
+You can find my CV here: [Zheng Zhang's Curriculum Vitae](../Research_CV_ZhengZhang.pdf). Feel free to reach out via [email](mailto:zheng1.zhang@connect.polyu.hk).
 
 # 🔥 News
 - *2026.11*: &nbsp;🎉 Our team won **Third Prize** in the **2026 National Healthcare Security AI Image Recognition Contest**.
@@ -43,7 +43,7 @@ You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZh
   </div>
   <div class="pub-content">
     <div class="pub-title"><a href="https://arxiv.org/abs/2607.11104">FlowPET: Physics-Informed Symplectic Flow Matching for Low-Count PET Reconstruction</a></div>
-    <div class="pub-authors"><strong>Zhang Zheng</strong>, H Tang, Y Hu, Z Hu, Jing Qin</div>
+    <div class="pub-authors"><strong>Zheng Zhang</strong>, H Tang, Y Hu, Z Hu, Jing Qin</div>
     <div class="pub-venue">ICML, 2026</div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2607.11104">paper</a> <a href="https://github.com/xiaochaorouz/FlowPET">code</a></div>
   </div>
@@ -55,7 +55,7 @@ You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZh
   </div>
   <div class="pub-content">
     <div class="pub-title"><a href="https://arxiv.org/abs/2601.11680">FourierPET: Deep Fourier-based Unrolled Network for Low-count PET Reconstruction</a></div>
-    <div class="pub-authors"><strong>Zhang Zheng</strong>, H Tang, Y Hu, Z Hu, Jing Qin</div>
+    <div class="pub-authors"><strong>Zheng Zhang</strong>, H Tang, Y Hu, Z Hu, Jing Qin</div>
     <div class="pub-venue">AAAI, 2026 &nbsp;<span class="pub-badge-oral">Oral Presentation</span></div>
     <div class="pub-links"><a href="https://arxiv.org/abs/2601.11680">paper</a> <a href="https://github.com/xiaochaorouz/FourierPET">code</a></div>
   </div>
@@ -67,7 +67,7 @@ You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZh
   </div>
   <div class="pub-content">
     <div class="pub-title"><a href="https://ieeexplore.ieee.org/abstract/document/10833823">Prompt-Agent-Driven Integration of Foundation Model Priors for Low-Count PET Reconstruction</a></div>
-    <div class="pub-authors">X Xie, W Zhao, M Nan, <strong>Zhang Zheng</strong>, Y Wu, H Zheng, D Liang, M Wang, Z Hu</div>
+    <div class="pub-authors">X Xie, W Zhao, M Nan, <strong>Zheng Zhang</strong>, Y Wu, H Zheng, D Liang, M Wang, Z Hu</div>
     <div class="pub-venue">IEEE Transactions on Medical Imaging</div>
     <div class="pub-links"><a href="https://ieeexplore.ieee.org/abstract/document/10833823">paper</a></div>
   </div>
@@ -88,5 +88,5 @@ You can find my CV here: [Zhang Zheng's Curriculum Vitae](../Research_CV_ZhengZh
 ------
 
 <p align="center">
-  <i>Zhang Zheng | The Hong Kong Polytechnic University</i>
+  <i>Zheng Zhang | The Hong Kong Polytechnic University</i>
 </p>
